@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #66CCBB;
+    height: 10vh;
+}
+.btn {
+    color: #FFFF44;
+    border: #FFFF44 2px solid !important;
+}
+.btn:hover {
+    color:#66CCBB;
+    background-color: #FFFF44;
+}
+

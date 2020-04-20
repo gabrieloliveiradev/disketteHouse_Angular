@@ -1,0 +1,17 @@
+#gradiente {
+    background: rgb(210,251,249);
+    background: linear-gradient(180deg, rgba(210,251,249,1) 0%, rgba(218,247,244,1) 27%, rgba(255,255,255,1) 100%);
+}
+main {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+main > h1 {
+    color: #66CCBB;
+}
+.btn-primary {
+    background-color: #66CCBB;
+    border: #66CCBB 1px solid;
+}

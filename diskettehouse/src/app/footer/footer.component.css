@@ -1,0 +1,33 @@
+footer {
+    border-top: 1px black solid;
+    background-color: none;
+    height: 60px;
+    width: 100%;
+    padding-left:15px ;
+    display: flex;
+    align-items: center;
+}
+.networks {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+    height: 100%;
+}
+.network-icons {
+    height: 30px;
+    width: 30px;
+}
+
+.network-icons > a > img {
+    height: 30px;
+    width: 30px;
+}
+.footer-phrase {
+    width: 400px;
+}
+.footer-phrase > p {
+    margin: 0 !important;
+    color: #66CCBB;
+    font-weight: 600;
+}
